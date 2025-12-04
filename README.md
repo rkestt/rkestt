@@ -22,7 +22,3 @@ My creative focus is on the game I'm building, my professional focus is on moder
 
 I constantly question what I do to improve it.
 Learning from things around me.
-
-## **Contact**
-
-Find all my links and socials on my GitHub profile.
