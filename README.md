@@ -1,16 +1,25 @@
-## Hi there 👋
+# **Andrea**
 
-<!--
-**rkestt/rkestt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*“What I cannot create, I do not understand."* - Richard Feynman
 
-Here are some ideas to get you started:
+Building things that (_might_) actually work
+Part-time **full-stack developer**
+- Designing **web apps**
+- Making **client applications**,
+- Developing a **personal video game project**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **What I’m Doing Now**
+Actively Developing Technical Skills
+My creative focus is on the game I'm building, my professional focus is on modern web applications.
+
+## **Core Tech**
+
+* ASP.NET / *C#* (.NET Framework & .NET Core)
+* **C++ / Python** (currently deepening my skills)
+* _Next.js_ (wip)
+
+I constantly question what I do to improve it.
+Learning from things around me
+
+## **Contact**
+Find all my links and socials on my GitHub profile.
