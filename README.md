@@ -1,25 +1,28 @@
-# **Andrea**
+# **Andrea** 👋🙂
 
-*“What I cannot create, I do not understand."* - Richard Feynman
+*“What I cannot create, I do not understand."* — Richard Feynman
 
-Building things that (_might_) actually work
+Building things that (*might*) actually work
 Part-time **full-stack developer**
-- Designing **web apps**
-- Making **client applications**,
-- Developing a **personal video game project**.
+
+* Designing **web apps**
+* Making **client applications**
+* Developing a **personal video game project**
 
 ## **What I’m Doing Now**
-Actively Developing Technical Skills
+
+Actively Developing Technical Skills 🌱
 My creative focus is on the game I'm building, my professional focus is on modern web applications.
 
 ## **Core Tech**
 
-* ASP.NET / *C#* (.NET Framework & .NET Core)
+* ASP.NET / **C#** (.NET Framework & .NET Core)
 * **C++ / Python** (currently deepening my skills)
-* _Next.js_ (wip)
+* *Next.js* (wip)
 
 I constantly question what I do to improve it.
-Learning from things around me
+Learning from things around me.
 
 ## **Contact**
+
 Find all my links and socials on my GitHub profile.
