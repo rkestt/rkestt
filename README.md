@@ -16,9 +16,12 @@ My creative focus is on the game I'm building, my professional focus is on moder
 
 ## **Core Tech**
 
+### Stack
+* *Next.js* / *Nest.js*
+* *Docker*
 * ASP.NET / **C#** (.NET Framework & .NET Core)
 * **C++ / Python** (currently deepening my skills)
-* *Next.js* (wip)
+* *Godot*
 
 I constantly question what I do to improve it.
 Learning from things around me.
