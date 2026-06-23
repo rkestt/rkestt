@@ -6,7 +6,8 @@ Building things that (*might*) actually work
 Part-time **full-stack developer**
 
 * Designing **web apps**
-* Making **client applications**
+* *AI* integrations
+* Switching to *Linux*
 * Developing a **personal video game project**
 
 ## **What I’m Doing Now**
